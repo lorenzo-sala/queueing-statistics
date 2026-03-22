@@ -1,0 +1,27 @@
+# Compiled output
+*.o
+*.a
+*.so
+*.out
+*.exe
+
+# Executables (no extension on Linux/Mac)
+queueing-statistics
+
+# Debug / profiling
+*.dSYM/
+*.su
+
+# Dependency / build artifacts
+*.d
+
+# Editor stuff
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
